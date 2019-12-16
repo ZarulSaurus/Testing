@@ -1,0 +1,8 @@
+name: snake
+channels:
+- conda-forge
+- bioconda
+dependencies:
+- snakemake
+- pandas
+- graphviz
